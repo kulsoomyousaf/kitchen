@@ -1,0 +1,58 @@
+#slider{
+	background-image:url("1.jpg");
+}
+#slider-text{
+	text-align : center;
+   padding-left:35%;
+   color: white;
+}
+#happy
+{
+background-color:grey;
+height:22%;	
+padding:0px;
+}
+#party
+{
+	background-color:#fd7e14;
+	height: 22%;
+	padding: 0px;
+}
+#abc{
+	padding:0px;
+    margin:0px;
+	}
+#tomato{
+	background-image:url("2.jpg");
+    height: 250px;
+	margin-top: 0px;
+	vertical-align:middle;
+	}
+#food{
+	color: white;
+	padding: 5%;
+}
+#k{
+	color:#fd7e14;
+}
+#logo{
+	height: 300px;
+	vertical-align: middle;
+}
+#we{
+	margin-top:0px;
+}
+#toggle{
+	background-image:url("pic.jpg");
+}
+.images{
+	background-color:white;
+}
+#f{
+	color:#fd7e14;
+	background-color:white;
+}
+#chicken{
+	color:#fd7e14;
+}
+
